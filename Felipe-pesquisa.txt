@@ -4,3 +4,4 @@ Felipe terminou a nova pesquisa do projeto!
 2 - Atividade numero 2
 3 - ATIVIDADE 1 FINALIZADA!
 4 - ATIVIDADE 2 FINALIZADA!
+5 - ATIVIDADE NOVA
